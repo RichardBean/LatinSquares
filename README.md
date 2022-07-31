@@ -27,10 +27,12 @@ D. R. Stinson and G. H. J. van Rees, Some large critical sets, Proceedings of th
 
 J. Nelder, Critical sets in Latin squares, CSIRO Division of Math. and Stats. Newsletter, Vol. 38 (1977), p. 4.
 
-## The On-Line Encyclopedia of Integer Sequences® (OEIS®) critical set sequences
+## The On-Line Encyclopedia of Integer Sequences (OEIS) critical set sequences
 
 [OEIS A002620 -- Quarter-squares: a(n) = floor(n/2)*ceiling(n/2). Equivalently, a(n) = floor(n^2/4)](http://oeis.org/A002620)
+
 [OEIS A063437 -- Cardinality of largest critical set in any Latin square of order n](http://oeis.org/A063437)
+
 [OEIS A080572 -- Number of ordered pairs (i,j), 0 <= i,j < n, for which (i & j) is nonzero, where & is the bitwise AND operator](http://oeis.org/A080572)
 
 
