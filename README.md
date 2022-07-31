@@ -1,5 +1,4 @@
-# LatinSquares
-Find smallest and largest critical sets in Latin squares (scs and lcs)
+# Code for finding smallest and largest critical sets in Latin squares (scs and lcs)
 
 The concept of "critical sets in Latin squares" was invented by John Nelder in 1977, in a CSIRO publication.
 
@@ -20,7 +19,7 @@ So what can we do for lcs(9), lcs(10), lcs(11) etc?
 
 References
 
-Richard Bean and E. S. Mahmoodian, A new bound on the size of the largest critical set in a Latin square, arXiv:math/0107159 [math.CO], 2001.
+Richard Bean and E. S. Mahmoodian, [A new bound on the size of the largest critical set in a Latin square](https://arxiv.org/abs/math/0107159) arXiv:math/0107159 [math.CO], 2001.
 
 C. Fu, H. Fu and W. Liao, A new construction for a critical set in special Latin squares, Proceedings of the Twenty-sixth Southeastern International Conference on Combinatorics, Graph Theory and Computing (Boca Raton, Florida, 1995), Congressus Numerantium, Vol. 110 (1995), pp. 161-166.
 
