@@ -12,7 +12,7 @@ In my PhD (1998-2001) I found critical sets of order 9/size 44, order 10/size 57
 The question is can we improve on that "lcs" bound? I would expect my conjecture from Bean and Mahmoodian is true -- lcs(n) ≤ n^2 - 3^(log_2 n)
 
 So this would imply 
-
+```
 25 <= lcs(7) <= 27
 lcs(8) = 37
 45 <= lcs(9) <= 48
@@ -23,6 +23,7 @@ lcs(8) = 37
 118 <= lcs(14) <= 130
 146 <= lcs(15) <= 151
 lcs(16) = 175
+```
 etc. (Does OEIS A080572 give a construction for a critical set of order 2^n+1?)
 
 I would guess that lcs(7) = 25 - interesting question is how many of the 147 main classes of order 7 Latin squares have a critical set of size 25 -- in my thesis, I found 113 main classes with such critical sets.
@@ -51,6 +52,7 @@ J. Nelder, Critical sets in Latin squares, CSIRO Division of Math. and Stats. Ne
 
 Order 13 size 95 critical set, completion has 125 intercalates
 
+```
 .............
 .a.c.e.g..i.j
 ..ab..ef....l
@@ -64,3 +66,4 @@ Order 13 size 95 critical set, completion has 125 intercalates
 ...gkcalefbhd
 .l.fdkibgceah
 .kilcdjafgheb
+```
