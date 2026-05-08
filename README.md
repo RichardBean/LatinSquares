@@ -19,7 +19,7 @@ lcs(8) = 37
 57 <= lcs(10) <= 61 (as of 6 May 2026, lcs(8) >= 58)
 70 <= lcs(11) <= 76 (as of 6 May 2026, lcs(11) >= 74)
 90 <= lcs(12) <= 92
-95 <= lcs(13) <= 110 (30 November 2024, see below) (as of 6 May 2026, lcs(13) >= 103)
+95 <= lcs(13) <= 110 (30 November 2024, see below) (as of 8 May 2026, lcs(13) >= 105)
 118 <= lcs(14) <= 130 (as of 6 May 2026, lcs(14) >= 125)
 146 <= lcs(15) <= 151 (as of 6 May 2026, lcs(15) >= 147 i.e. Fu Fu and Liao construction can be beaten starting with their square just like their 24 bound)
 lcs(16) = 175
