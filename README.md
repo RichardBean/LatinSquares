@@ -16,7 +16,7 @@ So this would imply
 25 <= lcs(7) <= 27 (as of 6 March 2026, lcs(7) = 25 from https://oeis.org/A063437)
 lcs(8) = 37
 45 <= lcs(9) <= 48 (as of 6 May 2026, lcs(7) >= 46)
-57 <= lcs(10) <= 61 (as of 6 May 2026, lcs(8) >= 59)
+57 <= lcs(10) <= 61 (as of 13 May 2026, lcs(8) >= 59)
 70 <= lcs(11) <= 76 (as of 6 May 2026, lcs(11) >= 74)
 90 <= lcs(12) <= 92
 95 <= lcs(13) <= 110 (30 November 2024, see below) (as of 8 May 2026, lcs(13) >= 105)
